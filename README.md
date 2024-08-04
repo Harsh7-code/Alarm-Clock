@@ -12,6 +12,9 @@ CSS
 JavaScript
 Screenshot
 
-### Acknowledgements
-I would like to thank my friend for their assistance with the JavaScript portion of this project.
+## Acknowledgements
+I would like to acknowledge that this project was a collaborative effort. While I designed and implemented the HTML and CSS, the JavaScript portion was significantly influenced by the help and guidance from some YouTube tutorials.
+
+
+
 
